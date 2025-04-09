@@ -37,7 +37,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/yourusername/shindau-notify-bot.git
+git clone https://github.com/Krazy885/Notify-system.git
 cd shindau-notify-bot
 ```
 
@@ -153,4 +153,3 @@ shindau-notify-bot/
 - **Issues**: [Сообщить о проблеме](https://t.me/Krazy885_support_bot)
 
 <p align="center">Сделано с ❤️ для сообщества ShinDau!</p>
-```
