@@ -34,7 +34,3 @@ func main() {
 
 	select {}
 }
-
-
-//sudo supervisorctl restart notify
-//sudo tail -f /var/log/notify.err.log
